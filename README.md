@@ -1,2 +1,2 @@
 # dataProjects
-Projects that we work on data
+Projects for data scientists that will help you to learn and practice analysis using python
